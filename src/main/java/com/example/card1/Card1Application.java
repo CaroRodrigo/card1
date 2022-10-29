@@ -39,7 +39,7 @@ public class Card1Application {
 // Hola como andan?
 //antes que nada disculpen la documentacion horrible que presento, estuve a 1000 esta semana.
 // les comento caso feliz y caso triste...
-// caso feliz linea 28
+// caso feliz linea 25
 //caso triste : cualquier dato vacio, si la tarjeta esta vencida o el mes y año mal colocados, nombre de la tarjeta : solo acepta visa, amex y nara (bien escritos) para agregar mas tarjetas se deberia agregar a enum y switch
 
 //Patron de diseño utilizado : Patrón template method
